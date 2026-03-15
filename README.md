@@ -1,6 +1,10 @@
 # Retail-Sales-Analysis-Dashboard
 The Retail Sales Analysis Dashboard visualizes key business metrics such as sales, profit, quantity, and discounts. It helps understand product performance, regional sales distribution, and customer purchasing patterns, enabling data-driven decision-making.
+
+
 Dataset Overview
+
+
 the dataset contains the following columns:
 Row ID => Unique ID for each row.
 Order ID => Unique Order ID for each Customer.
@@ -24,7 +28,10 @@ Quantity => Quantity of the Product.
 Discount => Discount provided.
 Profit => Profit/Loss incurred.
 
+
 Project Objectives
+
+
 To analyze overall sales performance of the retail store.
 To monitor total sales, profit, quantity, and discount metrics.
 To identify top-performing product categories and sub-categories.
